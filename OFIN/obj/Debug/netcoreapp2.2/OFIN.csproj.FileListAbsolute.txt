@@ -1,0 +1,14 @@
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\bin\Debug\netcoreapp2.2\OFIN.deps.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\bin\Debug\netcoreapp2.2\OFIN.runtimeconfig.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\bin\Debug\netcoreapp2.2\OFIN.runtimeconfig.dev.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\bin\Debug\netcoreapp2.2\OFIN.dll
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\bin\Debug\netcoreapp2.2\OFIN.pdb
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.csproj.CoreCompileInputs.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.RazorAssemblyInfo.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.RazorAssemblyInfo.cs
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.AssemblyInfoInputs.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.AssemblyInfo.cs
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.RazorTargetAssemblyInfo.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.dll
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.pdb
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\OFIN\OFIN\obj\Debug\netcoreapp2.2\OFIN.csprojAssemblyReference.cache
